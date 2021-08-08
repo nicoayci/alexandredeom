@@ -3,6 +3,7 @@ languageCode = "fr-fr"
 title = "Alexandre Déom"
 theme = "portfolio"
 publishDir = "docs"
+canonifyURLs = true
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
