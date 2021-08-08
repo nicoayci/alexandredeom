@@ -1,0 +1,9 @@
+mise a jour CSS pour agrandir la sidebar
+dans default.css
+si changement de couleur, il faut rechanger
+
+push sur github dans /docs du projet
+
+pour lancer en local :
+hugo server -b localhost
+
